@@ -1,0 +1,17 @@
+divisable(int x, int y){
+
+while (x>y){
+x=x-y
+}
+if (x==0) then{
+{
+print (¨yes¨);
+}
+{
+{
+else
+}
+{
+print (¨no¨);
+}
+}
